@@ -15,7 +15,7 @@
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
-    "version": "1.0.0",
+    "version": "10.0.0",
     "name": "Epics",
     "author": "zesyit",
     "windowWidth": 800,
